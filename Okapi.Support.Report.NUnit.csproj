@@ -12,9 +12,9 @@
     <PackageProjectUrl>https://github.com/tamnguyenbbt/Okapi.Support.Report.NUnit</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>
-      Support Okapi report using NUnit TestContext
-    </PackageReleaseNotes>
+    <PackageReleaseNotes>Support Okapi report using NUnit TestContext
+Example: https://github.com/tamnguyenbbt/Okapi/blob/master/OkapiSampleTests/TestCases/WithNUnit.cs
+</PackageReleaseNotes>
     <AutoGenerateBindingRedirects>True</AutoGenerateBindingRedirects>
     <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
